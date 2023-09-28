@@ -419,7 +419,7 @@ the time paused.*
 
 * **Changed rule 8.2.1 from:**
 ```
-
+8.2.1	The waiver order is determined by tier, not the league as a whole.
 ```
 to:
 ```
@@ -446,7 +446,8 @@ provides some much, much needed clarity and standardizes the waiver period per-p
 
 * **Changed rule 10.2.1.2 from:**
 ```
-
+10.2.1.2	If a Free Agent/RFA no-shows to a match they agreed to substitute in, without a valid reason, they will be 
+            barred from subbing for up to 4 match days.
 ```
 to:
 ```

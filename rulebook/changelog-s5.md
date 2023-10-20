@@ -1,6 +1,22 @@
-# VDC Rules and Operations Handbook Changelog
+# VDC Rules and Operations Handbook Changelog (Season 5)
 *This changelog does not reflect any rulebook changes before version 5.0. For earlier rulebook iterations, please visit 
 here: https://docs.google.com/document/d/16-gcSJ6cnG8Pr4rCEG5-NWjY5KbmCE5egyvhXpoJD5k*
+
+# Version 5.1
+*10/20/2023 - Clarified Rule 15.2.2.2*
+
+## Changed
+* **Changed rule 15.2.2.2 from:**
+```
+15.2.2.2    If discussions go further, the management of the inquiring franchise may be barred from signing the player 
+            and/or face further punishment.
+```
+to:
+```
+15.2.2.2    If discussions go further, including but not limited to offering an AGM position, the management of the 
+            inquiring franchise may be barred from signing the player and/or face further punishment.
+```
+*Reason: The previous rule was unclear and caused newer GMs to misinterpret what was allowed and disallowed during Open Discussion.*
 
 
 # Version 5.0 

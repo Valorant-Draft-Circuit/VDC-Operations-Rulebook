@@ -1,4 +1,4 @@
-# VDC Rules and Operations Handbook Changelog (Season 5)
+# VDC Rules and Operations Handbook Changelog (Season x)
 *This changelog does not reflect any rulebook changes before version x.x. For earlier rulebook iterations, please visit
 here: [link to previous version]*
 
@@ -6,7 +6,7 @@ here: [link to previous version]*
 *Date - Tiny description of rule changes*
 
 ## Added
-* **Added rule x.x.x.x1:**
+* **Added rule x.x.x.x:**
 ```
 x.x.x.x     Rule Description
 ```

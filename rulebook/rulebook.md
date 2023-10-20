@@ -441,7 +441,7 @@ These rules are up to date as of September 27, 2023.
   - 15.2.1	Franchises will be allowed to contact any player whose contract is expiring, to express interest in them, should they choose not to renew their contract with their current franchise.
   - 15.2.2	Poaching rules outlined in Section 7.2 do not apply during this period. Franchises may only contact players to inform them that they are interested in offering them a contract.
     - 15.2.2.1 Discussions should not go further than an inquiry, any other discussion should be done through the franchise that currently has the player on contract. If the current franchise gives permission to continue discussions to both the player and inquiring GM, it will be allowed.
-    - 15.2.2.2 If discussions go further, the management of the inquiring franchise may be barred from signing the player and/or face further punishment.
+    - 15.2.2.2 If discussions go further, including but not limited to offering an AGM position, the management of the inquiring franchise may be barred from signing the player and/or face further punishment.
 - **15.3	Stage 2: Cuts/Renewals**
   - 15.3.1	Poaching rules in Section 7.2 apply. Franchises may no longer talk to players directly.
   - 15.3.2	Following Open Discussion, franchises will be able to renew contracts with players. Any expiring contracts will need to be renewed or the player will become a Free Agent that may be signed by any other franchise during Unrestricted Transactions. Any renewed contracts will last for 1 season. The number of contract renewals a player may make is not limited.

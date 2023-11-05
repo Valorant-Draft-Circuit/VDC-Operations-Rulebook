@@ -205,8 +205,9 @@ These rules are up to date as of September 27, 2023.
   - 6.1.5	Should Riot Games disable an agent in competitive queues for any reason, the agent may not be used in VDC until Riot enables the agent again.
     - 6.1.5.1	If an Agent is disabled while matches are ongoing, they may be used in the later maps. If the bug they are disabled for is used, maps may be retroactively forfeited.
     - 6.1.5.2	If an Agent is re-enabled during ongoing matches, they should not be used in any following maps that night.
-  - 6.1.6	Spectators may not be in voice channels with players, nor may they join the game lobby in either a coach or observer slot. If a team is found to have someone who is not playing in the match provide any coaching or other assistance during a match, the match will be retroactively forfeited.
-    - 6.1.6.1	The Media Team is exempt from this rule for official VDC streams.
+  - 6.1.6   Any new weapons added to the game are legal at the point of their release.
+  - 6.1.7	Spectators may not be in voice channels with players, nor may they join the game lobby in either a coach or observer slot. If a team is found to have someone who is not playing in the match provide any coaching or other assistance during a match, the match will be retroactively forfeited.
+    - 6.1.7.1	The Media Team is exempt from this rule for official VDC streams.
 - **6.2	Lobby Setup**
   - 6.2.1	VDC uses Valorant custom game servers for matches.
     - 6.2.1.1 Matches should be played on the server with the lowest ping difference between the highest and lowest ping player in a lobby. This is calculated by subtracting the highest player’s ping with the lowest player’s ping.
@@ -445,7 +446,7 @@ These rules are up to date as of September 27, 2023.
 - **15.3	Stage 2: Cuts/Renewals**
   - 15.3.1	Poaching rules in Section 7.2 apply. Franchises may no longer talk to players directly.
   - 15.3.2	Following Open Discussion, franchises will be able to renew contracts with players. Any expiring contracts will need to be renewed or the player will become a Free Agent that may be signed by any other franchise during Unrestricted Transactions. Any renewed contracts will last for 1 season. The number of contract renewals a player may make is not limited.
-    - 15.3.2.1 If a player does not renew their contract, they can not sign with that franchise until 2 match days have passed, including pre-season. They may, however, still be drafted by the franchise.
+    - 15.3.2.1 Players who do not renew their contract during any of the previous periods may re-sign to the franchise on a one season contract.
   - 15.3.3	Any players may be cut, including those with seasons remaining on their contracts.
   - 15.3.4	Contract renewals are treated as new signings for the purpose of rule enforcement.
   - 15.3.5	At the end of this Stage, all players whose contracts were not renewed will be ended and the players will become Free Agents that will be drafted if not signed. Any players renewed will require a "Keeper Pick" in the draft.

@@ -2,6 +2,32 @@
 *This changelog does not reflect any rulebook changes before version 5.0. For earlier rulebook iterations, please visit 
 here: https://docs.google.com/document/d/16-gcSJ6cnG8Pr4rCEG5-NWjY5KbmCE5egyvhXpoJD5k*
 
+# Version 5.2
+*11/05/2023 - Season 5 Offseason Rule Proposals*
+
+## Added
+* **Added rule 6.1.6 (and moved previous 6.1.6 down to 6.1.7):**
+```
+6.1.6       Any new weapons added to the game are legal at the point of their release.
+```
+*Reason: Passed voting with 88.6% majority. This rule serves as a contingency in the rare event Riot Games adds a 
+new gun to Valorant.*
+
+## Changed
+* **Changed rule 15.3.2.1 from:**
+```
+15.3.2.1    If a player does not renew their contract, they can not sign with that franchise until 2 match days have 
+            passed, including pre-season. They may, however, still be drafted by the franchise.
+```
+to:
+```
+15.3.2.1    Players who do not renew their contract during any of the previous periods may re-sign to the franchise on 
+            a one season contract.
+```
+*Reason: Passed voting with 88.6% majority.  The point of the rule is to give players more time to re-sign to their 
+original team during the offseason. Also, they will be re-signed on a 1 season contract as if they were renewed.*
+
+
 # Version 5.1
 *10/20/2023 - Clarified Rule 15.2.2.2*
 

@@ -28,7 +28,7 @@ These rules are up to date as of September 27, 2023.
 
         - 1.1.4.1 Players who play 4 or 5 combine matches will still move forward to the draft but will be assessed an MMR Penalty Increase of 10% at 4 matches or 5% at 4 or 5 matches.
 
-    - 1.1.5	Players who were in the previous VDC season return by responding to the returning form sent out before combines. They must also complete 4 combine matches.
+    - 1.1.5	Players who were in the previous VDC season return by completing the signup process as outlined by the Admin team. They must also complete 4 combine matches.
 
         - 1.1.5.1 Combine matches for returning players are optional. Players will be assessed an MMR Penalty Increase of 10%, 7.5%, 5%, and 2.5% for 0/1/2/3 matches.
 
@@ -109,6 +109,7 @@ These rules are up to date as of September 27, 2023.
   - 3.2.1 Teams can not have more than 5 players, with two exceptions.
     - 3.2.1.1 Between the draft and the first pre-season cut day, roster sizes are unlimited.
     - 3.2.1.2 If a team puts a player on IR, they may add one extra rostered player.
+    - 3.2.1.3 A team may only place one player on IR at a time.
   - 3.2.2	Teams can not have less than 5 players, unless a team had fewer than 5 draft picks. In this case, a Free Agent must be picked up by the roster lock date.
   - 3.2.3	Teams will still be allowed to play in a match should a team suffer a player loss outside of their control in the season, resulting in having 4 active players.
     - 3.2.3.1	The roster should be back up to 5 players by the next match day, whether the missing player is cut or put on IR.
@@ -157,7 +158,7 @@ These rules are up to date as of September 27, 2023.
   
     - Postseason Placement Score * 0.30. Record this as “B”.
   
-    - Postseason Placement Score is 1 for being eliminated round 1, 2 for being eliminated round 2, n-1 for being eliminated in the semifinals, n for being the Runner-Up, and n + 0.5 for being the Champion. This number is then divided by n to get Postseason Placement Score.
+    - Postseason Placement Score is 1 for being eliminated round 1, 2 for being eliminated round 2, n-1 for being eliminated in the semifinals, n for being the Runner-Up, and n + 0.5 for being the Champion. This number is then divided by n, which is the number of rounds in finals, to get Postseason Placement Score. For example, if the playoffs involved only semifinals and finals, semifinals would be 1 point, finals would be 2 points, and winner of finals would receive 2.5 points.
   
     - Final Lottery Score is calculated as (2 - A - B)
   
@@ -194,7 +195,7 @@ These rules are up to date as of September 27, 2023.
     - 6.1.2.1	Ascent
     - 6.1.2.2	Bind
     - 6.1.2.3	Breeze
-    - 6.1.2.4	Haven
+    - 6.1.2.4	Icebox
     - 6.1.2.5	Lotus
     - 6.1.2.6	Split
     - 6.1.2.7	Sunset
@@ -205,7 +206,9 @@ These rules are up to date as of September 27, 2023.
   - 6.1.5	Should Riot Games disable an agent in competitive queues for any reason, the agent may not be used in VDC until Riot enables the agent again.
     - 6.1.5.1	If an Agent is disabled while matches are ongoing, they may be used in the later maps. If the bug they are disabled for is used, maps may be retroactively forfeited.
     - 6.1.5.2	If an Agent is re-enabled during ongoing matches, they should not be used in any following maps that night.
-  - 6.1.6   Any new weapons added to the game are legal at the point of their release.
+  - 6.1.6   When a new weapon is added, it may not be used until the match day 14 days after the patch in which they are introduced. 
+    - 6.1.6.1 This rule only applies between the draft and the last regular season game of the season.
+    - 6.1.6.2 New weapons added 14 days before playoffs or later may not be used during the postseason.
   - 6.1.7	Spectators may not be in voice channels with players, nor may they join the game lobby in either a coach or observer slot. If a team is found to have someone who is not playing in the match provide any coaching or other assistance during a match, the match will be retroactively forfeited.
     - 6.1.7.1	The Media Team is exempt from this rule for official VDC streams.
 - **6.2	Lobby Setup**
@@ -267,7 +270,7 @@ These rules are up to date as of September 27, 2023.
     - 6.5.2.2	If the combined total of technical pauses reaches 15 minutes during a match day, the pausing team should be given a 5 minute warning. If the combined total reaches 19 minutes, the pausing team should be given a 1 minute warning. Any further delay of technical pauses past the 20 minute mark may result in a forfeit for the pausing team.
   - 6.5.3	Rounds in which a player disconnects but a tech pause is not called will not be rolled back for any reason. If a disconnect occurs in a round where the game is won by either team, the match result stands.
 - **6.6	Game Results**
-  - 6.6.1	Players should submit their match via the Match Day sheet.
+  - 6.6.1	Players should submit their match via the /submit command in the VDC Discord Bot. 
 
 ## Transactions
 
@@ -493,6 +496,9 @@ These rules are up to date as of September 27, 2023.
 
 ## Major Rule Change Process
 
+### Stage 0: Admin Rulebook Review
+Prior to beginning the Rule Proposal process, the Admin team may, at their discretion, review the rulebook and make any changes before opening the Rule Proposal process. Any changes made by the Admin team must be recorded in a changelog released to the community at the beginning of the Rule Proposal process. 
+
 ### Stage 1: The Community
 At the end of the season, a discord channel will be opened for players to:
 
@@ -524,9 +530,9 @@ A. Within the League:
   
 - **Franchise** - A group of teams led by a General Manager. Duties of the General Manager may be referred to in the rules as the duty of a Franchise.
 
-- **Team** - A roster of 5 players, or more than 5 between the draft and the end of the preseason, within a franchise. Teams operate within a single tier. A franchise may have 3 or 4 teams.
+- **Team** - A roster of 5 players, or more than 5 between the draft and the end of the preseason, within a franchise. Teams operate within a single tier. 
 
-- **Tier** - A group of similarly skilled players. Currently, we have 4 tiers. From top to bottom, Premier, Master, Advanced, and Contender
+- **Tier** - A group of similarly skilled players. Currently, we have 4 tiers. From top to bottom, Mythic, Expert, Apprentice, and Prospect
 
 - **Offseason** - The period of time between the last championship of a season and the beginning of next season’s draft.
 
@@ -544,7 +550,9 @@ B. Player Roles:
 
 C. Elevated Roles:
 
-- **Admins** - The league overseers, mostly focusing on long term projects, assisting teams in meeting any goals they need help with, interpreting rules, and making larger league progressionary decisions. The admins have broad authority to make rulings in cases of contention or make changes to the rulebook for the purposes of clarification.
+- **Admins** - The league overseers, mostly focusing on long term projects, assisting teams in meeting any goals they need help with, interpreting rules, and making larger league progressionary decisions. The admins have broad authority to make rulings in cases of contention or make changes to the rulebook for the purposes of: clarification; unforeseen circumstances; or for the betterment of the league. 
+
+- **Advisors** - Team Leads or former admins who have deep institutional knowledge of the league, assisting Admins in decision-making when requested or necessary. Advisors do not have the powers to directly make decisions for the Admin Team. At Owner's discretion, Advisors may be granted the ability to perform league operations in the event Admins are unable to perform their duties. 
 
 - **Assistant General Manager** - May be referred to as “AGM.” A person who helps a General Manager with all aspects delegated within their franchise
 
@@ -552,6 +560,6 @@ C. Elevated Roles:
 
 - **General Manager** - May be referred to as “GM.” A person that manages a franchise and all aspects of their franchise.
 
+- **Owner** - Owner, as a stand-alone role, does not have any voting power, unless in case of a tie-breaker. The Owner possesses the main VDC Discord server, the codebase, staff servers (media, tech, etc.), and all main VDC social media accounts (YouTube, Twitch, Twitter, TikTok, etc.). 
+
 - **Staff** - Also known as “elevated role.” Staff consist of Admins and all members of teams: Moderators, Media, Tech, Transactions, and Numbers. See more about who these people are and what they do in the #staff-teams channel of discord.
-
-

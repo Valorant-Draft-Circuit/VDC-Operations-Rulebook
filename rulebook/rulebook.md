@@ -3,7 +3,7 @@
 For more information about the league, please visit [vdc.gg](https://vdc.gg)
 
 These rules are up to date as of April 5, 2024.  
-
+Version 6.1 - 04/05/24
 
 *This competition is not affiliated with or sponsored by Riot Games, Inc. or VALORANT Esports.*
 

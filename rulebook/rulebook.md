@@ -2,7 +2,7 @@
 
 For more information about the league, please visit [vdc.gg](https://vdc.gg)
 
-These rules are up to date as of September 27, 2023.  
+These rules are up to date as of April 5, 2024.  
 
 
 *This competition is not affiliated with or sponsored by Riot Games, Inc. or VALORANT Esports.*
@@ -22,11 +22,12 @@ These rules are up to date as of September 27, 2023.
 
     - 1.1.3	Any combination of 10 competitive or premier matches played in the current Act are required.
 
-      - 1.1.3.1	If an Act ends and a new one begins while signups are open, any combination of 10 competitive or premier matches in the prior act will be accepted.
+      - 1.1.3.1	 If an Act ends and a new one begins while signups are open, any combination of 10 competitive or premier matches in the prior act will be accepted.
+      - 1.1.3.2  Players may sign up before having played 10 Premier/Competitive matches but MUST complete the 10 required games by the Saturday after the final combine date.  
 
     - 1.1.4 Players entering the draft for the first time must play in 6 official VDC combine maps during the period of combines.
 
-        - 1.1.4.1 Players who play 4 or 5 combine matches will still move forward to the draft but will be assessed an MMR Penalty Increase of 10% at 4 matches or 5% at 4 or 5 matches.
+        - 1.1.4.1 Players who fail to complete 6 combine maps will still move forward to the draft, but will be assessed an MMR penalty increase of 10% at 4 maps or 5% at 5 maps played.
 
     - 1.1.5	Players who were in the previous VDC season return by completing the signup process as outlined by the Admin team. They must also complete 4 combine matches.
 
@@ -77,12 +78,12 @@ These rules are up to date as of September 27, 2023.
     - 2.1.3	Rostered players can not move between tiers during a season, unless they are promoted or demoted by their General Manager. Players cannot be demoted to a tier below their base tier.
     - 2.1.4	Every tier has matches scheduled on the same days at the same time, with the exception of some playoff matches or agreed upon rescheduled matches.
         - 2.1.4.1 Matches will be scheduled on Wednesdays and Fridays, but may not be scheduled around major holidays.
-        - 2.1.4.2 Matches are scheduled to start at 9pm EST unless rescheduled to a different time.
+        - 2.1.4.2: Admins will create the season schedule with major holidays in mind and will announce prior to the season starting.
 - **2.2 General Managers**
     - 2.2.1	General Managers (GMs) are selected by Admins. They each run a single Franchise.
         - 2.2.1.1 GMs are not required to play in the league, but are required to be active within the discord or the league.
         - 2.2.1.2 GMs are selected based on a variety of factors including seasons in the league, AGM experience, punishment history, application answers, and potentially other factors.
-    - 2.2.2	GMs are permitted to cut themselves from their team at any time post draft, if they wish. A GM who does this will not become a Free Agent.
+    - 2.2.2	GMs may be a rostered player as long as they complete the required number of combines. Any playing GM will be required to use a "Keeper Pick" in the draft. GMs are permitted to cut themselves from their team at any time post draft, if they wish. A GM who does this will not become a Free Agent.
         - 2.2.2.1 A GM who wishes to return to their roster must treat this transaction the same as if they were picking up a Free Agent.
         - 2.2.2.2 A GM can return to their roster in place of a player placed on IR.
         - 2.2.2.3 A GM cannot play as a substitute on any of their teams unless they are actively rostered on another team within their franchise.
@@ -92,11 +93,16 @@ These rules are up to date as of September 27, 2023.
         - 2.3.2.1 If a GM takes over during a season, they are allowed to replace any AGMs one time each, without using their allotted replacements.
         - 2.3.2.2	If a franchise has less than their allotted AGMs, appointing an AGM to reach the limit does not count towards allotted replacements.
         - 2.3.2.3	An AGM stepping down due to leaving the league or leaving a franchise will not count towards the allowed replacements.
+    - 2.3.3 If an AGM has been part of the same franchise for at least two consecutive seasons, but was a non-playing AGM in the most recent season and wishes to become a playing AGM in the next season, the GM may offer a renewal contract to the AGM. Any renewal contract offered to an AGM will last for 1 season. The same rules for a player who renewed their contract applies to AGM contract renewals.
+        - 2.3.3.1	The AGM must still complete the required number of combines as if they were a new, Draft Eligible player.
+        - 2.3.3.2   Any AGM renewed will require a “Keeper Pick” in the draft.
+        - 2.3.3.3   AGMs are permitted to cut themselves from their team at any time post draft, if they wish. An AGM who does this will become a Free Agent.
+        - 2.3.3.4   An AGM cannot play as a substitute on any of their teams unless they are actively rostered on another team within their franchise.
 
 ### Section 3. Team Rosters
 
 - **3.1 Player Contracts**
-    - 3.1.1	When a player is drafted or signed from free agency, they enter a 2 season contract. Contacts are to the franchise, not the team, and are tracked by season, not week. Contracts reduce 1 season in duration the day after the final Championship match in a season.
+    - 3.1.1	When a player is drafted or signed from free agency, they enter a 2 season contract. Contracts are to the franchise, not the team, and are tracked by season, not week. Contracts reduce 1 season in duration the day after the final Championship match in a season.
         - 3.1.1.1	If a season is in progress when the player is signed, the season counts as season 1 of 2, regardless of how far into the season the signing occurs.
     - 3.1.2	Players may not choose to leave a team while under contract, but may request to be cut or traded, subject to their GM’s approval.
         - 3.1.2.1	If a player is cut for refusing to play for their team or found to be intentionally sabotaging games, they will be suspended for half of the number of total matches in the season (rounded up) or until the match day following roster lock if the season is more than halfway completed. They will become an RFA after this time.
@@ -382,8 +388,8 @@ These rules are up to date as of September 27, 2023.
     - 11.1.3.3	If a player is unable to play 2 maps before pre-season cuts are due, they may be cut if proof of unresponsiveness or unavailability is provided.
 - **11.2	Preseason Roster Lock**
   - 11.2.1 	The preseason has 3 matches, during which teams determine the final 5 players on their roster. During these 3 matches, rosters will need to get closer to 5 as follows:
-    - 11.2.1.1	Teams must be down to 6 or fewer rostered players the day after the second preseason match at Noon EST.
-    - 11.2.1.2	Teams must have no more and no less than 5 rostered players the day after the third preseason match at Noon EST.
+    - 11.2.1.1	Teams must be down to 6 or fewer rostered players the day after the second preseason match at 3 PM EST.
+    - 11.2.1.2	Teams must have no more than 5 rostered players and no less than 4 rostered players, the day after the third preseason match at 3 PM EST.
 
 ## Section 12. Waiver Transactions
 

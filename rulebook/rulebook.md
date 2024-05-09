@@ -154,6 +154,7 @@ Version 6.1 - 04/05/24
 - **4.3	Keeper Picks**
   - 4.3.1	Franchises who wish to keep a player from a previous season must use a “Keeper Pick”, the round of which is determined by MMR of the player. A keeper pick is a regular draft pick, but is used to keep an already rostered player.
     - 4.3.1.1	If a franchise has more than 1 player requiring a keeper pick in the same round, a better pick must be used to keep the player unless they trade for another pick in that round.
+    - 4.3.1.2	Players on IR will need to be drafted with a keeper pick.
   - 4.3.2	The draft will always include a "Keeper Round" at the very end, where up to one player from each team, with a 7th or 8th keeper round, will be guaranteed a draft position. For recordkeeping purposes, the round number will be the last round with a selected or kept player + 1.
     - 4.3.2.1	If a team does not have a player to be kept in the 7th or 8th round, they will not get a pick in the Keeper Round.
     - 4.3.2.2	Picks in the Keeper Round may not be traded.

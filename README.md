@@ -1,0 +1,1 @@
+# This is an archived rulebook, please go to [ghost](https://blog.vdc.gg/rulebook/) for the current rulebook.
